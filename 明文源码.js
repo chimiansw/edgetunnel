@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = [https://raw.githubusercontent.com/chimiansw/edgetunnel/refs/heads/main/new.txt];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
